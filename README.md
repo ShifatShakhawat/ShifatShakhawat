@@ -1,4 +1,4 @@
-### Hi there, I'm **Shifat**
+### Hi there, I'm 
 
 <p align="center">
     <img src="https://github.com/ShifatShakhawat/ShifatShakhawat/blob/main/Shifat.svg"/>
@@ -14,7 +14,7 @@
 <!--   <a href="https://github.com/DenverCoder1/readme-typing-svg"> -->
   <img src="https://readme-typing-svg.herokuapp.com?color=3339F7FF&width=380&height=28&lines=Student;Tech+Enthusiast;Entreprenuer&left=true"></a></p>
 
-- 📫 How to reach me - **hello@shifat.me**
+- 📫 How to reach me - **shifat@duck.com**
 - 🔭 I’m currently working on hard and soft skills👩‍💻
 - 🥅 2026 Goal: Completing Undergraduation😵
 - 💬 Ask me about anything
