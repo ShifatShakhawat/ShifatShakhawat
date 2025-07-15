@@ -70,7 +70,7 @@
 
 <p align="center">
   <img alt="Visitor Badge" src="https://visitor-badge.laobi.icu/badge?page_id=ShifatShakhawat.ShifatShakhawat">
-    <img src="https://komarev.com/ghpvc/?username=ShifatShakhawat" height="28 rem"></img>
+    <img src="https://komarev.com/ghpvc/?username=ShifatShakhawat" ></img>
 </p>
 
 <h6 align="center">This README is dynamically updated every 12 hours using GitHub actions</h6>
