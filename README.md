@@ -55,6 +55,7 @@
 
 
 # 📈 My GitHub Stats:
+
 [![ReadMe Card](https://github-readme-stats.vercel.app/api?username=ShifatShakhawat&layout=compact&theme=radical&show_icons=true&card_width=450&card_height=195)](https://github.com/ShifatShakhawat) 
 [![GitHub Streak](https://github-readme-streak-stats-nine-khaki.vercel.app?user=ShifatShakhawat&theme=radical&card_width=450&card_height=195)](https://git.io/streak-stats) 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShifatShakhawat&layout=compact&theme=radical&card_width=450&card_height=195)](https://github.com/ShifatShakhawat/github-readme-stats) 
@@ -73,7 +74,7 @@
     <img src="https://komarev.com/ghpvc/?username=ShifatShakhawat" ></img>
 </p>
 
-<h6 align="center">This README is dynamically updated every 12 hours using GitHub actions</h6>
+<h6 align="center">This README is dynamically updated every 12 hours using GitHub actions.</h6>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&width=auto&height=80&section=footer"/>
